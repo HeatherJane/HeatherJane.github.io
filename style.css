@@ -9,8 +9,8 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
   line-height: 150%;
-  color: #333;
-  background: #efeee7;
+  color:whitesmoke;
+  background: gray;
 }
 
 header {
@@ -31,7 +31,7 @@ h2 {
 }
 
 a {
-  color: #d21034;
+  color: black;
 }
 
 /* Selecting elements by class */
